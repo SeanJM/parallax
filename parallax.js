@@ -57,7 +57,6 @@ parallax = {
           .css('z-index','999')
           .css('min-width','60px')
 
-
         $('body').append(el[k]);
       }
     }
