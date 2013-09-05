@@ -10,12 +10,14 @@ paralax.js
 
 ## Initial Setup
 Include paralax.js in the document
+
     <script src="parallax.js"></script>
 
 ### Creating a parallax frame
 All Parallax items must be included inside of a <DIV>. This <DIV> will automatically be scaled to fullscreen resolution and will update when the window is scaled.
 
-#### Setting up the <DIV>
+#### Setting up the &lt;DIV&gt;
+
     <div parallax>[content]</div>
 
 #### Creating an element that will be affected by scrolling
