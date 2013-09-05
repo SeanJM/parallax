@@ -2,6 +2,9 @@
 
 A JavaScript script that allows you to add parallax animations to your web page
 
+# Demo
+http://www.seanjmacisaac.com/parallax/
+
 ### Requirements
 jQuery 1.9 or later
 
