@@ -4,6 +4,7 @@ A JavaScript script that allows you to add parallax animations to your web page
 
 ### Requirements
 jQuery 1.9 or later
+
 paralax.js
 
 ### Initial Setup
@@ -12,7 +13,9 @@ Include paralax.js in the document
     <script src="parallax.js"></script>
 
 ### Creating a parallax frame
-All Parallax items must be included inside of a &lt;DIV&gt;. This &lt;DIV&gt; will automatically be scaled to fullscreen resolution and will update when the window is scaled.
+All Parallax items must be included inside of a &lt;DIV&gt;. This &lt;DIV&gt; will
+automatically be scaled to fullscreen resolution and will update when the window is
+scaled.
 
 #### Setting up the &lt;DIV&gt;
 
